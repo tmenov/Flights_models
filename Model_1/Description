@@ -1,3 +1,9 @@
 Atmospheric vortex models.
 Vortex model of vertical take-off and landing without external moving parts.
 The model is capable of moving at speeds of Mach 5-7 (6125 - 8575 km / h).
+
+Model_1 is a dense vortex generator.
+The property of a mixture of gases (air), when twisting into a vortex and at a sufficient flow rate, to form a dense, 
+stable substance, capable of holding significant loads (depending on the flow rate and the coefficient of twisting), 
+has been noticed. The atmospheric Model_1 is built on this simple principle, 
+capable of moving at significant speeds in various gas mixtures and at the same time showing extraordinary stability and control flexibility.
